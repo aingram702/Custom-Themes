@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "RedruM",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-009-f069b97f439938a011297c84464f0df6.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(0, 0, 0)",
+      "toolbar_text": "rgb(255, 0, 53)",
+      "frame": "rgb(23, 24, 25)",
+      "tab_background_text": "rgb(255, 14, 0)",
+      "toolbar_field": "rgb(25, 23, 23)",
+      "toolbar_field_text": "rgb(255, 0, 0)",
+      "tab_line": "rgb(0, 255, 49)",
+      "popup": "rgb(0, 0, 0)",
+      "popup_text": "rgb(0, 255, 49)",
+      "tab_loading": "rgb(0, 255, 49)"
+    }
+  }
+}
